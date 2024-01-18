@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Obuam
-- 👀 I’m interested in C sharp
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on C#
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me @obM on telegram
 
 <!---
